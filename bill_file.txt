@@ -1,0 +1,101 @@
+Receipt ID:	61
+----------------------------------------------------------
+ITEMS PURCHASED:
+		1. Creme Brulee	 Rs. 300
+CUSTOMER DETAILS:
+		Name: 	Hamid
+		Address: 	Ryk
+----------------------------------------------------------
+SUMMARY:
+		Items: 	1
+		Total purchase value: 	300
+----------------------------------------------------------
+
+
+Receipt ID:	525
+----------------------------------------------------------
+ITEMS PURCHASED:
+		1. FalafelWrap	 Rs. 100
+CUSTOMER DETAILS:
+		Name: 	dsf
+		Address: 	sd
+----------------------------------------------------------
+SUMMARY:
+		Items: 	1
+		Total purchase value: 	100
+----------------------------------------------------------
+
+
+Receipt ID:	462
+----------------------------------------------------------
+ITEMS PURCHASED:
+		1. Belgian Chocolate Cake	 Rs. 1600
+		2. Red Velvet Sundae	 Rs. 450
+		3. Cream Cheese	 Rs. 110
+CUSTOMER DETAILS:
+		Name: 	Hamid
+		Address: 	RYK
+----------------------------------------------------------
+SUMMARY:
+		Items: 	3
+		Total purchase value: 	2160
+----------------------------------------------------------
+
+
+Receipt ID:	908
+----------------------------------------------------------
+ITEMS PURCHASED:
+		1. Mousse Cake	 Rs. 1100
+CUSTOMER DETAILS:
+		Name: 	Hamid 
+		Address: 	Rahim Yar Khan
+----------------------------------------------------------
+SUMMARY:
+		Items: 	1
+		Total purchase value: 	1100
+----------------------------------------------------------
+
+
+Receipt ID:	866
+----------------------------------------------------------
+ITEMS PURCHASED:
+		1. Maltesers	 Rs. 1200
+CUSTOMER DETAILS:
+		Name: 	Hamid
+		Address: 	Rahim Yar Khan
+----------------------------------------------------------
+SUMMARY:
+		Items: 	1
+		Total purchase value: 	1200
+----------------------------------------------------------
+
+
+Receipt ID:	996
+----------------------------------------------------------
+ITEMS PURCHASED:
+		1. Maltesers	 Rs. 1200
+CUSTOMER DETAILS:
+		Name: 	Hamid Javed
+		Address: 	Abbasia Town
+----------------------------------------------------------
+SUMMARY:
+		Items: 	1
+		Total purchase value: 	1200
+----------------------------------------------------------
+
+
+Receipt ID:	759
+----------------------------------------------------------
+ITEMS PURCHASED:
+		1. 4ZingburgersDeal	 Rs. 600
+		2. BeefZinger	 Rs. 400
+CUSTOMER DETAILS:
+		Name: 	AbdulRehman
+		Address: 	abcRYK
+----------------------------------------------------------
+SUMMARY:
+		Items: 	2
+		Total purchase value: 	1000
+----------------------------------------------------------
+
+

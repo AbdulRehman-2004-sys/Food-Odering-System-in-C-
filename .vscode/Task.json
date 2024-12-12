@@ -1,0 +1,34 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build and Run C++",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "main.cpp", 
+                "choice.cpp", 
+                "admin.cpp", 
+                "customer.cpp", 
+                "bill.cpp", 
+                "restaurant.cpp", 
+                "utils.cpp", 
+                "-o", 
+                "program.exe"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": [],
+            "detail": "Compile and run C++ code"
+        },
+        {
+            "label": "Run C++ Program",
+            "type": "shell",
+            "command": "program.exe",
+            "dependsOn": "Build and Run C++",
+            "problemMatcher": []
+        }
+    ]
+}
